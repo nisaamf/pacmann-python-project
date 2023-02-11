@@ -6,6 +6,8 @@ Andi ingin membuat sistem kasir self-service di supermarket milikinya, sehingga 
 memasukkan nama barang yang dibeli, jumlah, harga, total harga, hingga kemungkinan mendapatkan diskon. 
 
 # Feature Requirements
+![Flowchart] https://github.com/nisaamf/pacmann-python-project/blob/0233ae3de6aa48644957b645b5c585719b0d8131/pacmann-super_cashier.png
+
 1. Membuat ID customer
 2. Memasukkan item yang diberi (nama, jumlah, dan harga)
 3. Melakukan cek pada daftar transaksi dari output
@@ -15,3 +17,9 @@ memasukkan nama barang yang dibeli, jumlah, harga, total harga, hingga kemungkin
 7. Menghitung total belanja dan kemungkinan mendapatkan diskon
 8. Melakukan pembayaran
 
+# Fungsi utama yang dibutuhkan 
+- Input
+- Pengulangan
+- Branching
+- Printing
+- Perhitungan
