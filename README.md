@@ -17,9 +17,17 @@ memasukkan nama barang yang dibeli, jumlah, harga, total harga, hingga kemungkin
 7. Menghitung total belanja dan kemungkinan mendapatkan diskon
 8. Melakukan pembayaran
 
-# Fungsi utama yang dibutuhkan 
+# Main Function
 - Input
 - Pengulangan
 - Branching
 - Printing
 - Perhitungan
+
+# Strength & Weakness
+Kelebihan program: Sederhana, rapi, dan mudah karena sudah tersedia list barang
+Kelemahan program: Kode kurang efektif untuk bisnis yang sudah berkembang
+
+# Things to work on
+Membuat list database kode barang, nama barang, dan harga satuan dalam jumlah yang lebih besar
+Membuat kode dengan Object Oriented Programming (OOP) untuk bisnis yang sudah berkembang
