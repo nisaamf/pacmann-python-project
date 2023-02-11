@@ -18,11 +18,13 @@ memasukkan nama barang yang dibeli, jumlah, harga, total harga, hingga kemungkin
 8. Melakukan pembayaran
 
 # Main Function
-- Input
+- Input/menambahkan item
 - Pengulangan
 - Branching
 - Printing
 - Perhitungan
+
+# Test Case
 
 # Strength & Weakness
 Kelebihan program: Sederhana, rapi, dan mudah karena sudah tersedia list barang
